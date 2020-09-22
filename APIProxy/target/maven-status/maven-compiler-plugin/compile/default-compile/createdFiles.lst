@@ -1,0 +1,3 @@
+com\mycompany\apiproxy\ApiProxyWeather.class
+com\mycompany\apiproxy\JAXRSConfiguration.class
+com\mycompany\apiproxy\resources\JavaEE8Resource.class
